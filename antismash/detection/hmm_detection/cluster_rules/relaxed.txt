@@ -40,3 +40,10 @@ RULE RRE-containing
     CUTOFF 10
     NEIGHBOURHOOD 10
     CONDITIONS ANY_RRE
+
+RULE phosphonate
+    CATEGORY other
+    DESCRIPTION Phosphonate
+    CUTOFF 20
+    NEIGHBOURHOOD 20
+    CONDITIONS phosphonates

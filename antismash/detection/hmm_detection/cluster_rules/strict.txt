@@ -499,12 +499,12 @@ RULE phenazine
     NEIGHBOURHOOD 10
     CONDITIONS phzB
 
-RULE phosphonate
+RULE phosphonateV2
     CATEGORY other
     DESCRIPTION Phosphonate
     CUTOFF 20
     NEIGHBOURHOOD 20
-    CONDITIONS phosphonates
+    CONDITIONS phosphonatesV2 and not phosphonatesHydrolase
 
 RULE guanidinotides
     CATEGORY RiPP
