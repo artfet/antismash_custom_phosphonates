@@ -151,7 +151,7 @@ PF07366	SnoaL family	20	PF07366.hmm
 thio_amide	nosA tpdK nocA berI pbtH	20	thio_amide.hmm
 phzB	Phenazine biosynthesis gene	80	phzB.hmm
 phosphonates	Phosphonate biosynthesis PEP mutase	275	phosphonates.hmm
-phosphonatesV2	Phosphonate biosynthesis PEP mutase 2	330	phosphonatesV2.hmm
+phosphonatesV2	Phosphonate biosynthesis PEP mutase 2	275	phosphonatesV2.hmm
 phosphonatesHydrolase	Phosphonopyruvate hydrolase	400	phosphonatesHydrolase.hmm
 bacilysin	Bacilysin-related amino acid ligase	160	bacilysin.hmm
 subtilosin	Putative subtilosin biosynthesis enzyme ywiA	140	subtilosin.hmm
